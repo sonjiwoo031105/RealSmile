@@ -5,10 +5,8 @@ using UnityEngine;
 public class EggSize : MonoBehaviour
 {
     Count c = new Count();
-    bool tf = false;
     private void OnMouseDrag()
     {
-        Debug.Log("왜잉래");
         Vector3 mousePosition = new Vector3(Input.mousePosition.x, Input.mousePosition.y, 10);
         //마우스 좌표를 스크린 투 월드로 바꾸고 이 객체의 위치로 설정해 준다.
         this.transform.position = Camera.main.ScreenToWorldPoint(mousePosition);
