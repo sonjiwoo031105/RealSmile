@@ -83,57 +83,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13334}
     - Class: 114
-      Script: {instanceID: 13768}
-    - Class: 114
-      Script: {instanceID: 14346}
-    - Class: 115
-      Script: {instanceID: 0}
-    - Class: 128
-      Script: {instanceID: 0}
-    - Class: 157
-      Script: {instanceID: 0}
-    - Class: 196
-      Script: {instanceID: 0}
-    - Class: 212
-      Script: {instanceID: 0}
-    - Class: 213
-      Script: {instanceID: 0}
-    - Class: 222
-      Script: {instanceID: 0}
-    - Class: 223
-      Script: {instanceID: 0}
-    - Class: 224
-      Script: {instanceID: 0}
-    Assets/Scenes/GoogleLogin.unity:
-    - Class: 1
-      Script: {instanceID: 0}
-    - Class: 4
-      Script: {instanceID: 0}
-    - Class: 20
-      Script: {instanceID: 0}
-    - Class: 21
-      Script: {instanceID: 0}
-    - Class: 28
-      Script: {instanceID: 0}
-    - Class: 48
-      Script: {instanceID: 0}
-    - Class: 81
-      Script: {instanceID: 0}
-    - Class: 104
-      Script: {instanceID: 0}
-    - Class: 114
-      Script: {instanceID: 11440}
-    - Class: 114
-      Script: {instanceID: 11728}
-    - Class: 114
-      Script: {instanceID: 11774}
-    - Class: 114
-      Script: {instanceID: 12388}
-    - Class: 114
-      Script: {instanceID: 13088}
-    - Class: 114
-      Script: {instanceID: 13334}
-    - Class: 114
       Script: {instanceID: 13604}
     - Class: 114
       Script: {instanceID: 13768}
@@ -146,6 +95,8 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
       Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
@@ -1841,7 +1792,7 @@ ScriptsOnlyBuild:
     className: arrow_touch
   - hash:
       serializedVersion: 2
-      Hash: 834480119d54d9f1f64d5f7503eb2dbd
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GoogleLogin
@@ -2010,7 +1961,6 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/First.unity
-  - Assets/Scenes/GoogleLogin.unity
   - Assets/Scenes/Stage.unity
   - Assets/Scenes/game1.unity
   - Assets/Scenes/game2.unity
@@ -2032,4 +1982,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/game18.unity
   - Assets/Scenes/game19.unity
   - Assets/Scenes/game20.unity
-  playerPath: C:/Users/Samsung/Documents/GitHub/SmileReal/SmileGame/SmileApp.apk
+  playerPath: C:/Users/jiji4/Project/SmileProject/smilegit2/SmileGame/SmileApp.apk
