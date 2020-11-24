@@ -1,5 +1,13 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/game19.unity
+=======
+<<<<<<< Updated upstream
+- path: Assets/Scenes/game5_1.unity
+=======
+- path: Assets/Scenes/game16.unity
+>>>>>>> Stashed changes
+>>>>>>> 5b617dd7f6149e9756a74c59d3b9c809f1579881
   isLoaded: 1
   isActive: 1
   isSubScene: 0
